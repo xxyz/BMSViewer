@@ -1,0 +1,6 @@
+c:\users\jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\bin\Debug\BMSParser.exe.config
+c:\users\jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\obj\Debug\BMSParser.csprojResolveAssemblyReference.cache
+c:\users\jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\bin\Debug\BMSParser.exe
+c:\users\jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\bin\Debug\BMSParser.pdb
+c:\users\jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\obj\Debug\BMSParser.exe
+c:\users\jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\obj\Debug\BMSParser.pdb
