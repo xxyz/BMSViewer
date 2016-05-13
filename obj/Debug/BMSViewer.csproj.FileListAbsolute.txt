@@ -1,0 +1,6 @@
+C:\Users\Jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\bin\Debug\BMSViewer.exe.config
+C:\Users\Jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\bin\Debug\BMSViewer.exe
+C:\Users\Jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\bin\Debug\BMSViewer.pdb
+C:\Users\Jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\obj\Debug\BMSViewer.csprojResolveAssemblyReference.cache
+C:\Users\Jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\obj\Debug\BMSViewer.exe
+C:\Users\Jinhyuck\documents\visual studio 2015\Projects\BMSParser\BMSParser\obj\Debug\BMSViewer.pdb

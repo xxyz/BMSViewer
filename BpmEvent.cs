@@ -6,24 +6,19 @@ using System.Threading.Tasks;
 
 namespace BMSViewer
 {
-    //BMS each note
-    class Note
+    class BpmEvent
     {
-        //script's channel
-        public int channel;
-
-        //WAV
-        public int sound;
+        //bpm change
+        public double bpm;
 
         //measure-time acculated + (measure + measure Div)*pulse = time
         public int measure;
         public double measureDiv;
         public ulong time;
 
-        public Note(int channel, int sound, int measure, double measureDiv)
+        public BpmEvent(double bpm, int measure, double measureDiv)
         {
-            this.sound = sound;
-            this.channel = channel;
+            this.bpm = bpm;
             this.measure = measure;
             this.measureDiv = measureDiv;
         }

@@ -10,7 +10,8 @@ namespace BMSViewer
     {
         static void Main(string[] args)
         {
-            
+            BMSParser bmsParser = new BMSParser();
+            BMS bms = bmsParser.Parse("D:/BMS/BOF/BOFU2015/Glitch Throne/GlitchThrone_eFeL_Engine_ogg/engine_XYZ.bms");
         }
     }
 }

@@ -10,7 +10,6 @@ namespace BMSViewer
     class Measure
     {
         public int measureNum;
-        public List<Note> notelist;
         public double meausureLength = 1.0;
     }
 }
